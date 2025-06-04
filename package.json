@@ -1,0 +1,22 @@
+{
+  "name": "express_crash_course",
+  "version": "1.0.0",
+  "description": "a simple manager for backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js "
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Mebanpynshai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
