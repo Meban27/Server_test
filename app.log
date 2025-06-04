@@ -4,3 +4,6 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/teas/2\",\"status\":\"204\",\"responseTime\":\"0.630\"}","timestamp":"2025-06-04T10:37:32.055Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"A post method is used","timestamp":"2025-06-04T10:38:45.828Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"4.735\"}","timestamp":"2025-06-04T10:38:45.834Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post method is used","timestamp":"2025-06-04T10:39:52.926Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"hey this is me","timestamp":"2025-06-04T10:39:52.929Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"5.969\"}","timestamp":"2025-06-04T10:39:52.933Z"}
